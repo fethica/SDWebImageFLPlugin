@@ -7,7 +7,7 @@
  */
 
 #import <SDWebImage/SDWebImage.h>
-#import <FLAnimatedImage/FLAnimatedImage.h>
+#import "FLAnimatedImage.h"
 #import "SDFLAnimatedImage.h"
 
 /**
